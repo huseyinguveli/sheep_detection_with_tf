@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>sheep30</filename>
+  <path>C:\tensorflow1\models\research\object_detection\images\train\sheep30.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>500</width>
+    <height>332</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>koyun</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>89</xmin>
+      <ymin>52</ymin>
+      <xmax>401</xmax>
+      <ymax>285</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>test</folder>
+  <filename>sheep185</filename>
+  <path>C:\tensorflow1\models\research\object_detection\images\test\sheep185.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>276</width>
+    <height>182</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>koyun</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>27</xmin>
+      <ymin>60</ymin>
+      <xmax>176</xmax>
+      <ymax>155</ymax>
+    </bndbox>
+  </object>
+</annotation>
