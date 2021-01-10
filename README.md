@@ -3,7 +3,7 @@
 https://github.com/tensorflow/models/tree/r1.13.0
 
 Yukarıdan indirdiğiniz dosyaları models adı ile C:/tensorflow1 klasörünün altına atın.
-Daha sonrasında benım yayınladığım kodları indirin ve C:/tensorflow1/models/research/object_detection dizinine atın.
+Daha sonrasında benim yayınladığım kodları indirin ve C:/tensorflow1/models/research/object_detection dizinine atın.
 
 ## Anaconda Ortamında "Virtual Environment" Oluşturulması
 
